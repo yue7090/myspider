@@ -1,3 +1,5 @@
 const myspider = require('../index')
 
-let a = myspider.page()
+myspider.pageContent({
+    url:'http://www.baidu.com'
+})

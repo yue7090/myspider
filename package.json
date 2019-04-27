@@ -22,5 +22,8 @@
   "homepage": "https://github.com/yue7090/myspider#readme",
   "__npminstall_done": "Thu Apr 25 2019 13:41:46 GMT+0800 (GMT+08:00)",
   "_from": "myspider@1.0.0",
-  "_resolved": "https://registry.npm.taobao.org/myspider/download/myspider-1.0.0.tgz"
+  "_resolved": "https://registry.npm.taobao.org/myspider/download/myspider-1.0.0.tgz",
+  "dependencies": {
+    "log4js": "^4.1.0"
+  }
 }
