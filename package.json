@@ -1,0 +1,26 @@
+{
+  "name": "myspider",
+  "version": "1.0.0",
+  "description": "my self puppeteer spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yue7090/myspider.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "spider"
+  ],
+  "author": "yue7090",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yue7090/myspider/issues"
+  },
+  "homepage": "https://github.com/yue7090/myspider#readme",
+  "__npminstall_done": "Thu Apr 25 2019 13:41:46 GMT+0800 (GMT+08:00)",
+  "_from": "myspider@1.0.0",
+  "_resolved": "https://registry.npm.taobao.org/myspider/download/myspider-1.0.0.tgz"
+}
