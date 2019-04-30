@@ -24,6 +24,7 @@
   "_from": "myspider@1.0.0",
   "_resolved": "https://registry.npm.taobao.org/myspider/download/myspider-1.0.0.tgz",
   "dependencies": {
-    "log4js": "^4.1.0"
+    "log4js": "^4.1.0",
+	  "puppeteer":"^1.13.0"
   }
 }
